@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name":" Field shoes",
+        "price": 150,
+        "image": "image/Shoe2.png"
+    },
+    {
+        "id": 2,
+        "name":" Nice shoe",
+        "price": 100,
+        "image": "image/Shoe3.png"
+    },
+    {
+        "id": 3,
+        "name":" house shoe",
+        "price": 30,
+        "image": "image/Shoe4.png"
+    },
+    {
+        "id": 4,
+        "name":" girl shoe",
+        "price": 200,
+        "image": "image/Shoe5.png"
+    },
+    {
+        "id": 5,
+        "name":" red shoe",
+        "price": 180,
+        "image": "image/Shoe6.png"
+    },
+    {
+        "id": 6,
+        "name":" blue boys shoe",
+        "price": 170,
+        "image": "image/Shoe7.png"
+    },
+    {
+        "id": 7,
+        "name":" black sbeakers",
+        "price": 150,
+        "image": "image/Shoe8.png"
+    }
+
+]
