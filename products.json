@@ -40,6 +40,30 @@
         "name":" black sbeakers",
         "price": 150,
         "image": "image/Shoe8.png"
+    },
+    {
+        "id": 8,
+        "name":" pull-over",
+        "price": 50,
+        "image": "image/Shirt1.png"
+    },
+    {
+        "id": 9,
+        "name":" shirt",
+        "price": 20,
+        "image": "image/Shirt2.png"
+    },
+    {
+        "id": 10,
+        "name":" shirt",
+        "price": 40,
+        "image": "image/Shirt3.png"
+    },
+    {
+        "id": 11,
+        "name":" shirt",
+        "price": 50,
+        "image": "image/Shirt4.png"
     }
 
 ]
