@@ -7,37 +7,37 @@
     },
     {
         "id": 2,
-        "name":" Nice shoe",
+        "name":" Nice shoes",
         "price": 100,
         "image": "image/Shoe3.png"
     },
     {
         "id": 3,
-        "name":" house shoe",
+        "name":" house shoes",
         "price": 30,
         "image": "image/Shoe4.png"
     },
     {
         "id": 4,
-        "name":" girl shoe",
+        "name":" girl shoes",
         "price": 200,
         "image": "image/Shoe5.png"
     },
     {
         "id": 5,
-        "name":" red shoe",
+        "name":" red shoes",
         "price": 180,
         "image": "image/Shoe6.png"
     },
     {
         "id": 6,
-        "name":" blue boys shoe",
+        "name":" blue boys shoes",
         "price": 170,
         "image": "image/Shoe7.png"
     },
     {
         "id": 7,
-        "name":" black sbeakers",
+        "name":" black sneakers",
         "price": 150,
         "image": "image/Shoe8.png"
     },
@@ -49,19 +49,19 @@
     },
     {
         "id": 9,
-        "name":" shirt",
+        "name":" Shirt",
         "price": 20,
         "image": "image/Shirt2.png"
     },
     {
         "id": 10,
-        "name":" shirt",
+        "name":" Hoody",
         "price": 40,
         "image": "image/Shirt3.png"
     },
     {
         "id": 11,
-        "name":" shirt",
+        "name":" Dress",
         "price": 50,
         "image": "image/Shirt4.png"
     }
